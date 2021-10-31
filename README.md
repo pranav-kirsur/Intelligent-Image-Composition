@@ -1,5 +1,9 @@
 # FriendBlend
 
+FriendBlend is an method to perform intelligent image composition, enabling two people to combine two photos of them with the same background into a single one, as if both people were present in the scene together.
+
+This project was built as part of the Digital Image Processing Course at IIIT Hyderabad.
+
 ## Team Information
 | Name | Roll Number| Branch |
 | --- | --- | --- |
